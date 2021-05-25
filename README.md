@@ -1,7 +1,9 @@
 # Eye-Magic-GUI
 A Python3/Tkinter Graphical User Interface for tuning the Eye-Magic lasers hardware.
 
-Eye-Magic lasers website : https://www.eyemagic.gr/
+Using pyserial for the serial communication. Keeping a short history of commands sent / data received.
+
+Eye-Magic website : https://www.eyemagic.gr/
 
 ## GUI when connected:
 
