@@ -1,3 +1,11 @@
+#=========================================================================
+# Name        : eye_magic_gui
+# Author      : Basilis Mprousalis
+# Version     : 1.6
+# Description : Graphical User Interace for tuning Eye-Magic Hardware
+#=========================================================================
+
+
 #                                 EYE MAGIC GUI APP
 
 #---------------------------------IMPORTS---------------------------------
