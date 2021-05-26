@@ -5,9 +5,9 @@ Using pyserial for the serial communication. Keeping a short history of commands
 
 Eye-Magic website : https://www.eyemagic.gr/
 
-## GUI when connected:
+### GUI when connected:
 
 ![Image of GUI when connected](https://github.com/BillBrousalis/Eye-Magic-GUI/blob/main/github_snaps_for_readme/gui_connected.PNG)
 
-## GUI when disconnected:
+### GUI when disconnected:
 ![Image of GUI when disconnected](https://github.com/BillBrousalis/Eye-Magic-GUI/blob/main/github_snaps_for_readme/gui_disconnected.PNG)
